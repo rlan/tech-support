@@ -32,6 +32,7 @@ baseurl: "/tech-support" # the subpath of your site, e.g. /blog
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Add front matter to static files
 defaults:
