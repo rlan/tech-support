@@ -2,7 +2,7 @@
 layout: post
 title:  "如何將Gmail電子郵件翻譯成中文"
 date:   2021-01-20 16:00:00 +0900
-categories: gmail translate chinese
+categories: zh
 ---
 
 如何將Gmail電子郵件翻譯成中文  

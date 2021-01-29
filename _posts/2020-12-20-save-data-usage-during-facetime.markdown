@@ -2,7 +2,7 @@
 layout: post
 title:  "How to save data usage during FaceTime?"
 date:   2020-12-20 13:00:00 +0900
-categories: facetime ios data usage
+categories: en
 ---
 
 In iOS, use the low data mode to save data usage during FaceTime.  

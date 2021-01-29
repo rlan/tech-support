@@ -2,7 +2,7 @@
 layout: post
 title:  "How to generate a PDF from text data"
 date:   2018-09-10 11:39:00 +0900
-categories: pdf convert text
+categories: en
 ---
 
 1. Copy the text into Google Doc.  

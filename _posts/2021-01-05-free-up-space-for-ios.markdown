@@ -2,7 +2,7 @@
 layout: post
 title:  "如何釋放iOS設備的存儲空間？"
 date:   2021-01-05 16:00:00 +0900
-categories: google photos storage chinese
+categories: zh
 ---
 
 如何釋放iOS設備的存儲空間？  

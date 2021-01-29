@@ -2,7 +2,7 @@
 layout: post
 title:  "How to free up storage space on iOS devices"
 date:   2020-12-23 13:52:00 +0900
-categories: google photos storage english ios
+categories: en
 ---
 
 After Google Photos synchronize photos to the cloud, we can free up storage space on the phone by removing these synchronized photos.  
